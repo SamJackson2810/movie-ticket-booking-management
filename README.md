@@ -1,9 +1,18 @@
 # movie-ticket-booking-system-Netbeans
 
-In this project movie ticket is booked  using  movie Ticket booking system. We enter into Web page by logging with User Name and Password. 
-Then we select the Movie and later in which Theatre movie is running. Later choose Show Timings and enter no of tickets you want .
-Finally it displays the details of the procedure and print the form to show at respective ticket counter to get ticket. 
-
+The "movie-ticket-booking-system-Netbeans" likely refers to a software project developed using the NetBeans IDE for creating a movie ticket booking system. 
+This system would typically involve features such as user registration, movie selection, seat reservation, payment processing, and booking confirmation.
++ User Registration: Users can create accounts with personal information like name, email, and password.
++ Movie Selection: Users can browse available movies, view showtimes, and select the movie they want to book tickets for.
++ Seat Reservation: Users can choose seats for the selected movie showtime, with a visual representation of available and booked seats.
++ Payment Processing: Integration with payment gateways to securely process ticket payments using credit/debit cards or other payment methods.
++ Booking Confirmation: Users receive a booking confirmation with details like movie name, showtime, seats booked, and payment receipt.
++ Admin Panel: An admin dashboard to manage movies, showtimes, seating arrangements, user accounts, and view booking reports.
++ Email Notifications: Automated email notifications for booking confirmations, ticket updates, and password resets.
++ User Feedback: Option for users to provide feedback or ratings for movies and the booking experience.
++ Security Measures: Implementation of security measures like authentication, authorization, and data encryption to protect user information and transactions.
++ Responsive Design: A responsive user interface that adapts to different devices such as desktops, tablets, and smartphones.
+  
 ## Objectives:
 [review form.pdf](https://github.com/SamJackson2810/movie-ticket-booking-management/files/14654657/review.form.pdf)
 
