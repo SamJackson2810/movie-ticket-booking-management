@@ -4,6 +4,8 @@ In this project movie ticket is booked  using  movie Ticket booking system. We e
 Then we select the Movie and later in which Theatre movie is running. Later choose Show Timings and enter no of tickets you want .
 Finally it displays the details of the procedure and print the form to show at respective ticket counter to get ticket. 
 
+## Objectives:
+[review form.pdf](https://github.com/SamJackson2810/movie-ticket-booking-management/files/14654657/review.form.pdf)
 
 ## Pictures:
 ### 1.Login page
@@ -18,3 +20,4 @@ Finally it displays the details of the procedure and print the form to show at r
 ![Screenshot 2023-12-30 164205](https://github.com/SamJackson2810/movie-ticket-booking-management/assets/128458120/4e3f219b-3e6a-4fe3-905e-0c8e3e5c6bbf)
 ### 6.Ticket 
 ![Screenshot 2023-12-30 164214](https://github.com/SamJackson2810/movie-ticket-booking-management/assets/128458120/c5c3a58a-c947-4a1c-86b4-f3ddd24a9ada)
+
